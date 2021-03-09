@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+
+    <string-array name="names">
+        <item>Zerina</item>
+        <item>Slavko</item>
+        <item>Nikola</item>
+        <item>Amer</item>
+        <item>Fenes</item>
+        <item>Ajdin</item>
+        <item>Nermin</item>
+        <item>Predrag</item>
+        <item>Faris</item>
+    </string-array>
+
+    <string-array name="surnames">
+        <item>Hasic</item>
+        <item>Kosorić</item>
+        <item>Drljić</item>
+        <item>Bogilović</item>
+        <item>Begović</item>
+        <item>Hukara</item>
+        <item>Žiga</item>
+        <item>Nešković</item>
+        <item>Čišija</item>
+    </string-array>
+
+    <string-array name="nationalities">
+        <item>Indian</item>
+        <item>American</item>
+        <item>Chinese</item>
+        <item>Bosnian</item>
+        <item>German</item>
+        <item>Croatian</item>
+        <item>Serbian</item>
+        <item>Macedonian</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>
